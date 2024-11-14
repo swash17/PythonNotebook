@@ -1,5 +1,5 @@
 matplotlib==3.9.2
 numpy==1.26.4
 pandas==2.2.2
-ipython=8.27.0
+ipython==8.27.0
 ipywidgets==7.8.1
